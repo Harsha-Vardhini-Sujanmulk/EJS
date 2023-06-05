@@ -1,0 +1,2 @@
+// js hint esversion:6
+// install node, express, ejs, body-parser, lodash through npm
